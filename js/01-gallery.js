@@ -32,7 +32,7 @@ function handleImgClick(evt) {
 
   const instance = basicLightbox.create(`
     <img
-    src="${sourceList}"
+   src="${sourceList}"
     alt="${currentDescr}"
   />
 `);
